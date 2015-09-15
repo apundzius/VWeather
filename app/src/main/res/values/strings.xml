@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="CurrentForecastTitle">NOW</string>
+    <string name="DailyForecastTitle">HOURLY</string>
+    <string name="Forecast10DayTitle">FORECAST</string>
+
+
+    <string name="RealFeel">Realfeel</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Winds">Winds</string>
+    <string name="Visibility">Visibility</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="Sunset">Sunset</string>
+
+
+    <string name="NoSuchCity">No information about such city found. Please enter another one.</string>
+    <string name="NoInternetConnection">No internet connection. Please enable your mobile data. </string>
+    <string name="action_settings">Settings</string>
+</resources>
